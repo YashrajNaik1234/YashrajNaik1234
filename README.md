@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YashrajNaik1234
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Program Solving
+- 🌱 I’m currently learning Full Stack Web
+- 🌱 Even I'm learning Data STructures And Algorithms Using C++
 - <!---💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashrajnaik1234@gmail.com
 - <!---😄 Pronouns: ...
