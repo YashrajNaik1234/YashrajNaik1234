@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrajnaik1234&label=Profile%20views&color=0e75b6&style=flat" alt="yashrajnaik1234" /> </p>
 
-- 🌱 I’m currently learning **WEB Development and DSA with Full Stack Java Development and actively participating in Competitive Programming**
+- 🌱 I’m currently learning **WEB Development, DSA with C++, Python and Full Stack Java Development and actively participating in Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
