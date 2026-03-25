@@ -7,11 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/walaaall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="walaaall" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/walaaall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yashkingz" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashrajnaik1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashrajnaik1234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashkingz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkingz" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashrajnaik1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashrajnaik1234" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/Yashkingz" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="walaaall" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/Yashkingz" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="Yashkingz" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Yashkingz" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Yashkingz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
