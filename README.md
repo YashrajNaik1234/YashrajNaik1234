@@ -32,4 +32,4 @@
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="25"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajnaik1234&" alt="yashrajnaik1234" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajnaik1234&" height="30" width="100" alt="yashrajnaik1234" /></p>
