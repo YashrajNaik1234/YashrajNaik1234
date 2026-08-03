@@ -32,8 +32,4 @@
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="25"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajnaik1234&show_icons=true&locale=en&layout=compact" alt="yashrajnaik1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrajnaik1234&show_icons=true&locale=en" alt="yashrajnaik1234" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajnaik1234&" alt="yashrajnaik1234" /></p>
